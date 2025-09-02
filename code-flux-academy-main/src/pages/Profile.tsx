@@ -141,7 +141,7 @@ const Profile = () => {
                 </Avatar>
                 
                 <div className="text-center md:text-left flex-1">
-                  <h1 className="text-3xl font-bold mb-2">John Doe</h1>
+                  <h1 className="text-3xl font-bold mb-2">Akshat</h1>
                   <p className="text-muted-foreground mb-4">
                     Aspiring Full Stack Developer • Learning since January 2024
                   </p>
@@ -149,7 +149,7 @@ const Profile = () => {
                   <div className="flex flex-wrap gap-2 justify-center md:justify-start">
                     <Badge variant="secondary" className="bg-primary/10 text-primary">
                       <StarIcon className="mr-1 h-3 w-3" />
-                      Beginner
+                      Intermediate
                     </Badge>
                     <Badge variant="secondary" className="bg-accent/10 text-accent">
                       <RocketIcon className="mr-1 h-3 w-3" />
